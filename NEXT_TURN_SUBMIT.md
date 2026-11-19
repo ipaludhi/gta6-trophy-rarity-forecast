@@ -10,8 +10,10 @@ shrunk Theil-Sen trends"** (pick this or a distinct equivalent at submit time).
 
 - https://github.com/ipaludhi/gta6-trophy-rarity-forecast (created after the
   2026-11-19T11:30Z opening, public, owner ipaludhi)
-- Commit: fill in after push (local HEAD below, remote SHA differs by the seed
-  parent — tree SHA must match).
+- Commit: local HEAD 845200b2824597fffb413ebf869e4e73f1b1c560, remote
+  190c95546f2f4eca0bb0fc4fc42fd24df9ccf721 (differs by the seed parent only;
+  tree SHA d2db10ea079f5198d12a3f3a499ef3ebb2856234 identical, verified by
+  credential-less clone 2026-11-19 ~19:16 WIB; .makefun/owner.json present).
 - Files: `main.py` (entry, stdlib only), `README.md`, `LICENSE` (MIT),
   `.makefun/owner.json` (payout wallet 3EJmUxUZZXLXjVpRG6uXBSG7n9kDSBgLVbgnNQDTkgct).
 - Secret grep before push: 0 hits (api key / secret / token / private / seed /
